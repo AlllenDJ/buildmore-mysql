@@ -29,7 +29,7 @@ error_reporting(E_ALL);
             <li><a href="profile.html">Profile</a></li>
             <li><a href="membership.html">Membership</a></li>
             <li><a href="aboutus.html">About us </a></li>
-            <li><a href="kontakti.php">Contacti </a></li>
+            <li><a href="sazina.php">Sazina </a></li>
         </ul>
     </div>
 </nav>
