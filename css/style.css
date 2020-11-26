@@ -1,0 +1,36 @@
+.container{
+    width: 2000px;
+}
+
+.section-inner {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 15px;
+    height: 500px;
+}
+
+.jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: #f5f5f500;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.box {
+    float: left;
+    width: 33.33%;
+    padding: 100px;
+}
+
+
